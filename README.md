@@ -1,23 +1,11 @@
-# Party Calculator (CRA 초안)
+# Party Calculator
 
-자캐 파티 운영용 레벨/경험치/스탯/데미지 계산기 초안입니다.
+자캐 파티 운영용 레벨/경험치/스탯/데미지 계산기입니다.
 
-## 실행
 
-```bash
-npm install
-npm start
-```
-
-## 빌드
-
-```bash
-npm run build
-```
 
 ## 현재 포함 기능
 
-- CRA (`react-scripts`) 기반
 - 원페이지 3열 레이아웃
 - 여러 캐릭터 등록/선택/삭제
 - 캐릭터 이미지 URL 선택 입력
@@ -34,9 +22,4 @@ npm run build
 - 모바일 반응형 초안
 
 ## 메모
-
-GitHub Pages 배포 시 `homepage` 값이나 배포 방식은 실제 저장소명에 맞춰 조정하면 됩니다.
-
-- React 컴포넌트 파일은 전부 `.js` 확장자를 사용합니다.
-
 - 캐릭터 수정 기능: 이름 / 이미지 URL / 레벨 / EXP / 4종 스탯 직접 보정
